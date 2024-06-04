@@ -62,7 +62,7 @@ select {
     cursor: not-allowed;
     background-color: #576081;
 }
-.hide{
+.hide{ 
     display: hidden;
 }
 .timer{
